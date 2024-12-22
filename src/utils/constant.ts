@@ -1,0 +1,18 @@
+export const belts = [
+  { name: "White", image: "/images/white.png" },
+  { name: "Yellow", image: "/images/yellow.png" },
+  { name: "Orange", image: "/images/orange.png" },
+  { name: "Green", image: "/images/green.png" },
+  { name: "Blue", image: "/images/blue.png" },
+  { name: "Brown", image: "/images/brown.png" },
+  { name: "Black (1st Dan)", image: "/images/black.png" },
+  { name: "Black (2nd Dan)", image: "/images/black.png" },
+  { name: "Black (3rd Dan)", image: "/images/black.png" },
+  { name: "Black (4th Dan)", image: "/images/black.png" },
+  { name: "Black (5th Dan)", image: "/images/black.png" },
+  { name: "Coral (6th Dan)", image: "/images/coral.png" },
+  { name: "Coral (7th Dan)", image: "/images/coral.png" },
+  { name: "Coral (8th Dan)", image: "/images/coral8.png" },
+  { name: "Red (9th Dan)", image: "/images/red.png" },
+  { name: "Red (10th Dan)", image: "/images/red.png" },
+];
