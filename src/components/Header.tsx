@@ -21,6 +21,9 @@ const Header = () => {
           className="cursor-pointer"
         />
       </Link>
+      <div>
+        <Link href="/waza">Waza</Link>
+      </div>
       <div className="flex items-center space-x-4">
         {user && (
           <>
